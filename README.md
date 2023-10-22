@@ -3,5 +3,5 @@
 Desafio Original DIO: Explorando IA Generativa em um Pipeline de ETL com Python
 
 # Meu Projeto
-Imaginando uma agência de empregos meu desafio foi criar um pipeline ETL para extrair dados de score de aderência na vaga de Analista de dados dos candidatos de um arquivo CSV, realizar algumas transformações simples e por fim realizar carregamento dos dados transformados em um novo arquivo CSV além de criar uma visualização em tela para mostrar o resultados por meio de gráficos.
+Imaginando uma agência de empregos meu desafio foi criar um pipeline ETL para extrair dados de score de aderência na vaga de Analista de dados dos candidatos de um arquivo CSV, realizar transformação simples calculando a media dos scores e por fim criar uma visualização em tela para mostrar o resultados por meio de gráficos. Os gráficos realizados são dos scores dos candidatos e comparativo entre a média e os scores dos candidatos.
 
