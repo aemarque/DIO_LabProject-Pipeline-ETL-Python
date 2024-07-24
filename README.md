@@ -1,3 +1,6 @@
+# DIO Santander Bootcamp 2024 - IA
+E-book sobre Recrutamento e Seleção usando IA
+
 # DIO Santander Bootcamp 2023 - Ciência de Dados com Python
 
 Desafio Original DIO: Explorando IA Generativa em um Pipeline de ETL com Python
